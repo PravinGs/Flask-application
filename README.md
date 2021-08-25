@@ -1,2 +1,1 @@
-# Django-Bolg-web-application
-Building software development
+This is a Machine Learning Project to Predict the car prices by some properties
